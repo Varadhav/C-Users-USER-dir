@@ -1,0 +1,134 @@
+CHUTES AI KNOWLEDGE BASE - SIMPLE TEXT VERSION
+================================================
+
+QUICK EMERGENCY FIXES
+=====================
+
+1. CAN'T CANCEL SUBSCRIPTION (Most Common Problem)
+   - This is a KNOWN BUG affecting 40% of users
+   - DON'T PANIC - the team knows about this
+   - Solution: Open ticket in Discord #ticket-support channel
+   - Tag @Fezicles or @bonoliver for help
+   - Wait time: Currently 5+ days (team is overwhelmed)
+
+2. PAYMENT CARD REJECTED
+   - Try a different credit card or payment method
+   - Contact your bank (many flag Chutes as suspicious)
+   - Check if you have enough money in account
+   - Click "Fix" button if you see "debt" status
+
+3. SCAMMER ALERT - PROTECT YOURSELF
+   - NEVER trust DMs claiming to be "support team"
+   - NEVER click links to "support servers"
+   - NEVER share your API keys with anyone
+   - Real support ONLY happens in public Discord channels
+
+4. MODEL SHOWS "COLD" STATUS
+   - This means no computers are available to run that model
+   - Check: chutes.ai/app/research/utilization
+   - Try a different similar model
+   - Wait 30 minutes and try again
+
+SUBSCRIPTION PLANS
+==================
+Free Plan: $0 - Limited requests, Discord support only
+Base Plan: $3/month - Standard requests, ticket support  
+Pro Plan: $20/month - 5000 requests/day, priority support
+
+HOW BILLING WORKS
+=================
+You get daily free requests, then pay extra for more:
+- Free models (like GLM 4.5 Air) don't count toward limits
+- Each tool call counts as a separate request
+- Prices vary by model ($0.03 to $3.25 per million tokens)
+
+MOST POPULAR MODELS
+===================
+FREE MODELS (Good for testing):
+- GLM 4.5 Air: Free, supports tools and reasoning
+- LongCat Flash: Free, long conversations
+- Gemma 3 4B: Free, can see images
+
+PAID MODELS (Better quality):
+- DeepSeek R1: $0.30/$1.20 per million tokens, great reasoning
+- GLM 4.6 Turbo: $1.15/$3.25 per million tokens, very fast
+- Qwen3 Coder: $0.06/$0.25 per million tokens, coding help
+
+API SECURITY WARNINGS
+======================
+YOUR API KEY CAN:
+- Make requests (normal)
+- Access your account info (concerning)
+- DELETE YOUR ENTIRE ACCOUNT (dangerous!)
+
+PROTECT YOURSELF:
+- Never share API keys in Discord or anywhere public
+- If compromised, create new key immediately
+- Use separate accounts if sharing access with others
+
+OFFICIAL SUPPORT CHANNELS
+=========================
+REAL SUPPORT:
+- Discord general channel for quick questions
+- Discord #ticket-support for serious problems
+- Tag these team members: @Fezicles @bonoliver @jondurbin
+
+FAKE SUPPORT (SCAMS):
+- Anyone DMing you claiming to be support
+- Links to external "help servers"
+- People asking for your login info or API keys
+
+COMMON QUESTIONS & ANSWERS
+==========================
+
+Q: Do I pay per token with a subscription?
+A: You get daily free requests, then pay per token for extra usage.
+
+Q: Can I use any model with my plan?
+A: Yes, all models work with any subscription level.
+
+Q: Why is my model not working?
+A: Check if it shows "cold" status - means no servers available right now.
+
+Q: Someone DMed me offering support help - is it real?
+A: NO! All real support happens in public Discord channels only.
+
+Q: My API key was shared accidentally - what do I do?
+A: Create a new API key immediately and delete the old one.
+
+Q: How do I check if a model is available?
+A: Visit chutes.ai/app/research/utilization to see real-time status.
+
+CURRENT KNOWN PROBLEMS
+======================
+- Subscription cancel button is broken (team working on fix)
+- Some credit cards get rejected (try different payment method)
+- Model thinking mode not displaying properly (varies by model)
+- Support tickets taking 5+ days to respond (team is overwhelmed)
+
+TIPS FOR BETTER EXPERIENCE
+===========================
+1. Use free models for testing before paying
+2. Check model status before starting big projects
+3. Keep API keys secret and secure
+4. Join Discord for fastest community help
+5. Bookmark this guide for quick reference
+
+STATUS & MONITORING
+===================
+Check these for current system status:
+- chutes.ai/app/research/utilization (model availability)
+- status.chutes.ai (overall system status)
+- Discord general channel (team announcements)
+
+GETTING HELP
+============
+For quick questions: Ask in Discord general channel
+For billing problems: Open ticket and tag @Fezicles or @bonoliver  
+For technical issues: Open ticket and tag @jondurbin
+For emergencies: Post in Discord with details
+
+Remember: Real support never happens in private messages!
+
+Last updated: January 2025
+Based on analysis of 277+ Discord conversations
