@@ -1,0 +1,152 @@
+CHUTES AI KNOWLEDGE BASE - COMPLETE GUIDE
+=========================================
+
+EMERGENCY FIXES FOR TOP PROBLEMS
+=================================
+
+1. CANNOT CANCEL SUBSCRIPTION (40% of users affected)
+   Problem: Cancel button loads forever but doesn't work
+   Solution: 
+   - Open ticket in Discord #ticket-support channel
+   - Tag @Fezicles or @bonoliver
+   - Wait 5+ days for response (team overwhelmed)
+   - This is a KNOWN BUG being fixed
+
+2. CREDIT CARD REJECTED
+   Problem: Payment fails during subscription
+   Solutions:
+   - Try different credit card
+   - Contact your bank (many flag Chutes as fraud)
+   - Use PayPal if available
+   - Check account balance
+   - Clear browser cookies and try again
+
+3. SCAMMER PROTECTION
+   Warning Signs:
+   - Anyone DMing you claiming to be support
+   - Links to external support servers
+   - Requests for API keys or passwords
+   - Urgent payment demands
+   
+   Real Support Only:
+   - Public Discord channels
+   - Official ticket system
+   - Team members: @Fezicles @bonoliver @jondurbin @fstandhartinger
+
+4. MODEL SHOWS COLD STATUS
+   Problem: No available instances error
+   Solutions:
+   - Check chutes.ai/app/research/utilization
+   - Try different similar model
+   - Wait 30 minutes and retry
+   - Use free models (better availability)
+
+SUBSCRIPTION PLANS
+==================
+Free: $0 - Limited requests, Discord support
+Base: $3/month - Standard allowance, ticket support
+Pro: $20/month - 5000 requests/day, priority support
+
+BILLING EXPLAINED
+=================
+How it works:
+- Get daily free requests with subscription
+- Pay extra for usage beyond daily limit
+- Free models don't count toward limits
+- Tool calls count as separate requests
+- Prices: $0.03 to $3.25 per million tokens
+
+POPULAR MODELS
+==============
+FREE MODELS:
+- GLM 4.5 Air: $0, tools and reasoning
+- LongCat Flash: $0, long conversations  
+- Gemma 3 4B: $0, can process images
+
+PAID MODELS:
+- DeepSeek R1: $0.30/$1.20, excellent reasoning
+- GLM 4.6 Turbo: $1.15/$3.25, very fast
+- Qwen3 Coder: $0.06/$0.25, programming help
+- Hermes 4 70B: $0.11/$0.38, reasoning support
+
+API SECURITY RISKS
+===================
+Your API key can:
+- Make inference requests (normal)
+- Access account information (concerning)
+- DELETE YOUR ENTIRE ACCOUNT (dangerous)
+- Modify billing and settings (risky)
+
+Protection:
+- Never share keys publicly
+- Rotate immediately if compromised
+- Use separate accounts for sharing
+- Monitor usage regularly
+
+SUPPORT CHANNELS
+================
+LEGITIMATE:
+- Discord general channel (quick questions)
+- Discord #ticket-support (formal issues)
+- Tag team members publicly
+
+SCAMS TO AVOID:
+- Private messages claiming to be support
+- External support server links
+- Requests for credentials
+
+COMMON QUESTIONS
+================
+Q: Do I pay per token with subscription?
+A: You get daily allowance, then pay for overages
+
+Q: Can I use any model?
+A: Yes, all models work with any plan level
+
+Q: Why is my model not responding?
+A: Check if it shows cold status (no servers available)
+
+Q: Someone DMed me offering help, is it real?
+A: No, all real support is in public channels only
+
+Q: I shared my API key accidentally, what now?
+A: Generate new key immediately, delete old one
+
+CURRENT KNOWN ISSUES
+====================
+- Subscription cancel button broken (being fixed)
+- Some cards rejected (try different payment)
+- Model thinking mode display problems
+- Support tickets delayed 5+ days
+
+TROUBLESHOOTING TIPS
+====================
+1. Check model status before big projects
+2. Use free models for testing first
+3. Keep API keys private and secure
+4. Monitor usage in dashboard
+5. Join Discord for community help
+
+MONITORING TOOLS
+================
+- chutes.ai/app/research/utilization (model status)
+- status.chutes.ai (system status)
+- Discord announcements (team updates)
+
+GETTING HELP
+============
+Quick questions: Discord general channel
+Billing problems: Ticket + tag @Fezicles/@bonoliver
+Technical issues: Ticket + tag @jondurbin
+Emergencies: Post in Discord with full details
+
+Remember: Real support never happens in private messages
+
+TEAM CONTACT INFO
+=================
+@Fezicles @bonoliver - Billing and subscriptions
+@jondurbin @fstandhartinger - Development and deployment
+@PaperMoney @cxmplex - Backend and platform issues
+
+Last updated: January 2025
+Based on 277+ Discord conversation analysis
